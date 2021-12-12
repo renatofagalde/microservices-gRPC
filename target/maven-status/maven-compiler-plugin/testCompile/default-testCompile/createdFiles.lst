@@ -1,7 +1,0 @@
-br/com/likwi/gRPC/protobuf/PersonDemoTest.class
-br/com/likwi/gRPC/protobuf/OneOfDemoTest.class
-br/com/likwi/gRPC/json/PerformanceTest.class
-br/com/likwi/gRPC/protobuf/CompositionDemoTest.class
-br/com/likwi/gRPC/protobuf/DefaultValueDemoTest.class
-br/com/likwi/gRPC/client/BankClientTest.class
-br/com/likwi/gRPC/protobuf/OneOfDemoTest$1.class
